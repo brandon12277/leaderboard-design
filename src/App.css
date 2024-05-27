@@ -1,0 +1,99 @@
+
+
+
+
+
+.head-text{
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+}
+
+.left {
+  position: absolute;
+  top:-0%;
+  
+}
+
+.color-blue{
+  color : rgb(65, 65, 152);
+}
+
+.sp-br{
+  border-top-left-radius: 0.45em;
+  border-bottom-left-radius: 0.45em;
+  box-shadow : rgb(227, 227, 227) -1px 0px 1px;
+  border-left: 1px solid rgb(227, 227, 227);
+  border-top: 1px solid rgb(227, 227, 227);
+  border-bottom: 1px solid rgb(227, 227, 227);
+  
+}
+
+.sp-br-last{
+  border-top-right-radius: 0.45em;
+  border-bottom-right-radius: 0.45em;
+  box-shadow : rgb(227, 227, 227) 0px 0px 1px;
+  border-right: 1px solid rgb(227, 227, 227);
+  border-top: 1px solid rgb(227, 227, 227);
+  border-bottom: 1px solid rgb(227, 227, 227);
+  
+}
+
+.ele-br{
+  border-top: 1px solid rgb(227, 227, 227);
+  border-bottom: 1px solid rgb(227, 227, 227);
+  margin-bottom: 4%;
+}
+
+.special-border{
+   
+  
+  
+  
+  padding: 5%;
+  
+   
+}
+
+
+/* .special-border td:first-child {
+    border-top-left-radius: 0.45em; 
+    border-bottom-left-radius: 0.45em; 
+    border-left: 1px solid gb(212, 212, 212);
+   
+    
+
+  }
+
+  .special-border td:last-child {
+    border-top-right-radius: 0.45em; 
+    border-bottom-right-radius: 0.45em; 
+    border-right: 1px solid gb(212, 212, 212);
+   
+    
+
+  } */
+
+
+
+.top-div{
+  position: relative;
+  border: 1px solid rgb(187, 187, 187);
+  border-radius: 0.15em;
+ 
+}
+
+.raleway{
+  font-family: "Raleway", sans-serif;
+}
+
+.legend {
+  position: absolute;
+  top: -0.75em; /* Half of legend height to center it on the border */
+  color: white;
+  background: rgb(83, 83, 83); /* Match background color */
+  padding: 0 10px; /* Padding for better visual */
+  font-family: "Raleway", sans-serif;
+  
+}
+
+
