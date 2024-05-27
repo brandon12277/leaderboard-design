@@ -139,10 +139,10 @@ function App() {
     <div className="w-full p-10 mt-5  flex flex-col justify-center items-center">
 
 
-        <div className="w-full  flex flex-col  items-center">
+        <div className="w-full  flex flex-col  items-center justify-center">
                
-              <h1 className='text-left  text-4xl sm:h1 font-bold mb-12 text-gray-900 text-shadow-lg head-text raleway'>  Leader Board</h1> 
-              <div className='flex gap-5 mt-10 mb-10 font-poppins'>
+              <h1 className='text-left  text-4xl sm:h1 font-bold mb-12 text-gray-900 text-shadow-lg head-text raleway'>  Leader<span className=' color-blue'>Board</span></h1> 
+              <div className='w-full flex items-center justify-center gap-5 mt-10 mb-10 font-poppins'>
 
 
 
